@@ -1,0 +1,7 @@
+.class
+sandboxrepo
+wd1
+wd2
+**/.idea
+*.iml
+**/*.iml
